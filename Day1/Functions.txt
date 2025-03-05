@@ -1,0 +1,8 @@
+review1 => from the name of function, we can't know if we are initializing the session or not. Also Single Responsibility Principle(SRP).
+review2 => name is global, name is getting updated(use local variable).
+review3 => using "Not" in function name is confusing, and casing problem.
+review4 => _type  is what, use proper namings.
+review5 => there's no defintion of else.
+review6 => we can use ternary operator, as it will take only one line.
+review7 => try avoiding singleton class, it can't be tested.
+review8 => number of parameter should not be more than 3, instead of using flag, create 2 functions.
